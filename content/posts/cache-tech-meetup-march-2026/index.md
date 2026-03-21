@@ -2,7 +2,7 @@
 title: Cache Tech Community - RAM Fundamentals - March 2026
 description: RAM Fundamentals
 date: 2026-03-10 00:16:00+0000
-image: photo-1542978709-19c95dc3bc7e.png
+image: andrey-matveev-0qJabxMD6KQ-unsplash.jpg
 summary: "Join us on Saturday, March 28th, 2026, from 1:30 PM to 3:30 PM at Bridgerland Technical College for our Cache Tech Community RAM Fundamentals meetup! Our very own nonopey will be presenting on how RAM works, how systems use it, and why it matters."
 categories:
     - Communities

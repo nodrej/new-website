@@ -2,7 +2,7 @@
 title: Cache Tech Community - Hands-On ML Workshop - April 2026
 description: Hands-On ML Workshop
 date: 2026-03-21 00:00:00+0000
-image: image_870x_67799e80a280c.jpg
+image: markus-winkler-f57lx37DCM4-unsplash.jpg
 summary: "Join us on Saturday, April 25th, 2026, from 1:30 PM to 3:30 PM at Bridgerland Technical College for a hands-on, code-along workshop on building binary classifier models using the Kaggle diabetes dataset. Each participant gets their own cloud-based VS Code instance with everything pre-loaded and ready to go."
 categories:
     - Communities
