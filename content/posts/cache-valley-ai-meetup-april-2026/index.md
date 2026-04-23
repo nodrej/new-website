@@ -37,13 +37,7 @@ Show up if you're:
 ## Join the Email List
 Fill out the form to join the email list for future Cache Valley AI Meetup events:
 
-[https://form.typeform.com/to/uaTdLFQ7](https://form.typeform.com/to/uaTdLFQ7)
+<a href="https://form.typeform.com/to/uaTdLFQ7" target="_blank" rel="noopener" class="btn btn-primary" style="color: #ffffff; text-decoration: none; padding: 0.875rem 2rem; font-size: 1.125rem; font-weight: 600;">Join the Email List</a>
 
-## Connect With Us
-Join our [Discord community](https://discord.gg/YNkqmVGZbS) to:
-- Connect with other meetup attendees
-- Share tips and techniques
-- Stay updated on future community meetups and events
-- Continue learning and discussions after the meetup
 ---
 Beehive Grill, Logan, UT
