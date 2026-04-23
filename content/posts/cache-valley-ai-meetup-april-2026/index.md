@@ -17,7 +17,7 @@ tags:
     - Cache Valley AI Meetup
 weight: 10
 ---
-### Event Details:
+### Event Details: Cache Valley AI Community
 - **Date**: Friday, April 24th, 2026
 - **Time**: 12:00 PM (MST)
 - **Location**: Beehive Grill, Logan, UT
